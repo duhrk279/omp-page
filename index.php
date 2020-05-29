@@ -78,7 +78,8 @@
 						<div class="new_games_item">
 							<img src="src/img/gb_icon.png" alt="">
 							<div class="upcoming_title">
-								<h3><a href="../produkte/games/gravity-bird/">The Real Gravity Bird</a></h3>
+								<!-- <h3><a href="../produkte/games/gravity-bird/">The Real Gravity Bird</a></h3> -->
+								<h3><a>The Real Gravity Bird</a></h3>
 							</div>
 						</div>
 					</div>
