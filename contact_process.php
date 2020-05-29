@@ -1,6 +1,6 @@
 <?php
 
-    $to = "support@onemanpublish.com";
+    $to = "support@onemanpublisher.com";
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
     $subject = $_REQUEST['subject'];

@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="de">
 	<head>
-		<title>onemanpublish Games - Sonstiges</title>
+		<title>onemanpublisher Games - Sonstiges</title>
 		<?php include "ext/head.html" ?>
 	</head>
 	<body>

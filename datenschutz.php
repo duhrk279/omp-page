@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="de">
 	<head>
-		<title>onemanpublish Games - Datenschutz</title>
+		<title>onemanpublisher Games - Datenschutz</title>
 		<?php include "ext/head.html" ?>
 	</head>
 	<body>
